@@ -4,3 +4,4 @@ url: https://infinite-nomic.github.io
 baseurl: /
 
 permalink: none
+theme: jekyll-theme-cayman
